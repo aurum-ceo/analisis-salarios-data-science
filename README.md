@@ -25,13 +25,13 @@ El proyecto usa un conjunto de datos público de salarios en ciencia de datos ob
 1. Instalar las dependencias:
 
 ```bash
-python -m pip install pandas matplotlib
+python -m pip install -r requirements.txt
 ```
 
 2. Ejecutar el programa:
 
 ```bash
-python analisis_salarios.py
+cd "Proyecto 02" && python analisis_salarios.py
 ```
 
 ## Resultados
